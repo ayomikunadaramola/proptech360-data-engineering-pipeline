@@ -1,0 +1,15 @@
+rule,violations
+duplicate_unit_id,1
+duplicate_work_order_id,1
+unknown_work_order_unit,1
+unknown_reading_unit,1
+negative_cost,1
+negative_energy,1
+missing_resolved_response,0
+invalid_lease_dates,0
+invalid_work_order_dates,0
+invalid_priority,0
+invalid_status,0
+invalid_reading_month,0
+duplicate_unit_month_reading,0
+overlapping_leases,0

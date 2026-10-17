@@ -1,0 +1,6 @@
+dataset,input_rows,accepted_rows,quarantined_rows,duplicate_rows,reconciled
+properties.csv,12,12,0,0,True
+units.csv,241,240,1,1,True
+leases.csv,198,198,0,0,True
+work_orders.csv,1501,1498,3,1,True
+meter_readings.csv,1440,1438,2,0,True
